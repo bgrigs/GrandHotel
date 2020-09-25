@@ -16,7 +16,6 @@ make navigation copyright visible on safari and chrome (mobile) --as of now only
 make mobile hamburger menu a little smaller?
 
 /* common styles */
-/* common styles */
 html {
     font-size: 62.5%;
     box-sizing: border-box;
@@ -261,7 +260,7 @@ body {
 .header {
     margin-left: 8rem;
     height: 100vh;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url(../img/header-1.jpeg) center no-repeat;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url(../img/header-1.jpeg) top center no-repeat;
     background-size: cover;
 }
 
@@ -287,19 +286,19 @@ body {
 }
 
 .banner-heading {
-    color: #ddd;
+    color: #ccc;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 7rem;
     font-weight: 400;
     margin-bottom: 0;
-    animation: anim 2s;
+    animation: anim 2.5s;
 }
 
 .banner-paragraph {
-    color: #fff;
+    color: #ccc;
     font-size: 3.5rem;
     font-weight: 300;
-    animation: anim 1.5s .5s backwards;
+    animation: anim 2s 1s backwards;
 }
 
 .banner-button {
@@ -313,7 +312,7 @@ body {
     border-radius: 10rem;
     outline: none;
     background: linear-gradient(to right, gold, goldenrod);
-    animation: anim 1s 1s backwards;
+    animation: anim 2s 2s backwards;
 }
 
 .banner-button:hover {
