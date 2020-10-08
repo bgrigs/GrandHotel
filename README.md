@@ -22,4 +22,4 @@ Still need to...
 
 -make mobile hamburger menu a little smaller and/or add mroe padding
 
--Add border-bottom to links in fotter
+-Add border-bottom to links in footer
