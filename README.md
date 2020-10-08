@@ -1,5 +1,5 @@
 # GrandHotel
-Work in Progress...
+*Work in Progress*
 
 
 What did I change in this project? 
