@@ -20,6 +20,6 @@ Still need to...
 
 -make navigation copyright visible on safari and chrome (mobile, as of now only working on safari)
 
--make mobile hamburger menu a little smaller and/or add mroe padding
+-make mobile hamburger menu a little smaller and/or add more padding
 
 -Add border-bottom to links in footer
